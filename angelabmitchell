@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am bangieb on github.
+  * I am angelabmitchell (https://keybase.io/angelabmitchell) on keybase.
+  * I have a public key ASBqt-dtSuX_kzUjgUE4LPuuDdrEoPc3gOgiJFgyNOPq3go
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202226502a80b243f36ef11fef30b7fc33f45c67b8efd407cf4f086b2720529e0d0a",
+      "host": "keybase.io",
+      "kid": "01206ab7e76d4ae5ff9335238141382cfbae0ddac4a0f73780e82224583234e3eade0a",
+      "uid": "8ac0ef722785b21e0bc8f69d5c7d0419",
+      "username": "angelabmitchell"
+    },
+    "merkle_root": {
+      "ctime": 1575913873,
+      "hash": "25d5508dd02897d0df9f00278891b0a93ee98c37ce83a997104fdcfaaab98c2a828debe2358d03dbb99993a1a062f98b0284f6d594f60abb3ce30c6aac6bb542",
+      "hash_meta": "8db00966ac2f05411d00c0b041e8c2015af3caec18dac05d9e0a7dbbb2dbc3b9",
+      "seqno": 13092366
+    },
+    "service": {
+      "entropy": "duLiiPVPS0EkVvvpdSuNaS2a",
+      "name": "github",
+      "username": "bangieb"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1575913881,
+  "expire_in": 504576000,
+  "prev": "c98b0406dca757612827c64adfac1aa7c4a041409cc51f85d3b6df9423acecad",
+  "seqno": 59,
+  "tag": "signature"
+}
+```
+
+with the key [ASBqt-dtSuX_kzUjgUE4LPuuDdrEoPc3gOgiJFgyNOPq3go](https://keybase.io/angelabmitchell), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgarfnbUrl/5M1I4FBOCz7rg3axKD3N4DoIiRYMjTj6t4Kp3BheWxvYWTESpcCO8QgyYsEBtynV2EoJ8ZK36wap8SgQUCcxR+F07bflCOs7K3EIGYsWOpteSpTjobUWUfsvUPUyJwVAB4ksOS0OXyPdm+PAgHCo3NpZ8RAKfiuc5qPU8BTmp29/T4IyJb2dvlL+x56XsIMYiEyoCFxs1cHl2tx9IxhGinGLrw+nNcK+niMJx2pmnd6R8uhCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICwoBNeiNQyWvqMygng7OYe2W03EUUc4sps2sStdELUGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/angelabmitchell
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id angelabmitchell
+```
